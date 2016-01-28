@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{915F9831-8E7A-80D3-EDB9-3034F1BCB528}") = "COMP305-W2016-MailPilot-master", "Assembly-CSharp.csproj", "{CC5962A5-BDBF-261D-797A-8531DB7E7C9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC5962A5-BDBF-261D-797A-8531DB7E7C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5962A5-BDBF-261D-797A-8531DB7E7C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5962A5-BDBF-261D-797A-8531DB7E7C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5962A5-BDBF-261D-797A-8531DB7E7C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
